@@ -1,0 +1,11 @@
+Source: hamonikr-translations
+Section: admin
+Priority: optional
+Maintainer: hamonikr <hamonikr@gmail.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: hamonikr-translations
+Architecture: all
+Description: Translation files for Linux Mint hamonikr's Desktop files
+ Translation files for Linux Mint hamonikr's Desktop files

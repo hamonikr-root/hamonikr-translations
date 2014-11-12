@@ -1,0 +1,9 @@
+Package: hamonikr-translations
+Version: 1.000
+Architecture: all
+Maintainer: hamonikr <hamonikr@gmail.com>
+Installed-Size: 851
+Section: admin
+Priority: optional
+Description: Translation files for Linux Mint hamonikr's Desktop files
+ Translation files for Linux Mint hamonikr's Desktop files

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Keyboard Input Methods
+Name[ko]=키보드 입력기 ibus 설정
+Comment=Adjust methods for keyboard input.
+Comment[ko]=ibus 키보드 입력기 환경을 설정합니다.
+Exec=ibus-setup
+Icon=ibus-setup
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Settings;
+NotShowIn=GNOME;Unity;
+X-Desktop-File-Install-Version=0.22
+X-Ubuntu-Gettext-Domain=ibus10
